@@ -1,6 +1,10 @@
 # wow-hello-world
 A simple WoW addon that greets you
 
+Written by:  Mohsin Rizvi
+
+Last edited: 05/04/2018
+
 # *README*
 
 ## A. Overview
