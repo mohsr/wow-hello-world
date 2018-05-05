@@ -1,4 +1,6 @@
 ## Interface: 70300
 ## Title: HelloWorld
 ## Author: Mohsin Rizvi
-## Version: 0.1
+## Version: 1.0
+
+main.lua
