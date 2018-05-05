@@ -10,7 +10,9 @@ Last edited: 05/04/2018
 ## A. Overview
 
 This is a basic World of Warcraft addon that I'm making so I can (a) learn 
-how to write World of Warcraft addons, and (b) learn Lua. (:
+how to write World of Warcraft addons, and (b) learn Lua. I can't really 
+learn Lua from just this 1-line program, so I'll write more addons to 
+help with that. (:
 
 ## B. Running the Addon
 
